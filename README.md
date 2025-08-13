@@ -6,13 +6,15 @@ Hola .. si, soy Camilo o al menos así me llama la mayoría<br><br>◃👽▹ No
 
 
 <!-- SKILLS -->
-<h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <!--START_SECTION:colourise-->
 <p align=center>
 <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
 <img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/></p>
 <!--END_SECTION:colourise-->
 
