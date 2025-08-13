@@ -1,15 +1,13 @@
 <!-- ABOUT ME -->
 ## Acerca de mi: 
-<h1 align="center">Hi!,  I'm Alamin <img src=
-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<img src="https://drive.google.com/uc?id=14xqv5Vq1iSHgQblRQwoVmMGU7XPq05u4" style="width:230px"/>
 
 Hola .. si, soy Camilo o al menos así me llama la mayoría<br><br>◃👽▹ No soy solo un desarrollador, sino alguien que recibe ideas con curiosidad, las analiza con intuición y trabaja en equipo, logrando soluciones funcionales que sorprenden.<br><br>◃💻▹ Me formé en el SENA en Análisis y Desarrollo de Software, pero mi aprendizaje real viene de explorar, equivocarme, colaborar sin seguir siempre el mismo camino. Soy empírico con más de 1 año y medio de experiencia la cual adquiri mediante mi proyecto más reciente, ha sido el desarrollo de un LMS (Learning Management System) personalizado para un colegio en la ciudad de Sogamoso, Boyacá, optimizando la gestión académica y la experiencia de estudiantes y docentes.<br><br>◃💎▹ Me apasiona construir software útil, visualmente atractivo y disfruto emplear las buenas prácticas.<br><br>◃☁️▹ En mi tiempo libre, me encontrarás jugando videojuegos retro, participando en foros CTF, tocando batería o capturando paisajes con mi cámara.<br><br>◃🌲▹ Actualmente estoy buscando oportunidades de práctica laboral para seguir creciendo como desarrollador y aportar con nuevas ideas y compromiso.<br><br>📩 ¿DM? Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/devmecamilo/) o revisar mis proyectos aquí en GitHub.<br><br>▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 
 
 <!-- SKILLS -->
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <!--START_SECTION:colourise-->
 <p align=center>
