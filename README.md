@@ -40,7 +40,7 @@
 
 </div>
 
-<h2> Contributed: </h2>
+<h2> Contributed </h2>
 
 <div >
             <p align="center">
