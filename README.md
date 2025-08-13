@@ -10,7 +10,7 @@ Hola .. si, soy Camilo o al menos así me llama la mayoría<br><br>◃👽▹ No
 
 <!--START_SECTION:colourise-->
 <p align=center>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
