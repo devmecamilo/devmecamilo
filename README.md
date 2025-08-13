@@ -42,12 +42,9 @@ Hola .. si, soy Camilo o al menos así me llama la mayoría<br><br>◃👽▹ No
 
 </div>
 
-
 <hr>
+
 <!-- CONTACT ME -->
-
 ## Contact me:
-
-<a href="https://www.linkedin.com/in/mgrootendorst/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devmecamilo) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CehExXZ5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebastiancamicordoba@hotmail.com) 
