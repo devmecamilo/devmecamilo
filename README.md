@@ -1,6 +1,6 @@
+<!-- INTRODUCTION -->
 <h1> Hola! Soy Camilo. </h1>
 <br><br>◃👽▹ No soy solo un desarrollador, sino alguien que recibe ideas con curiosidad, las analiza con intuición y trabaja en equipo, logrando soluciones funcionales que sorprenden.<br><br>◃💻▹ Me formé en el SENA en Análisis y Desarrollo de Software, pero mi aprendizaje real viene de explorar, equivocarme, colaborar sin seguir siempre el mismo camino. Soy empírico con más de 1 año y medio de experiencia la cual adquiri mediante mi proyecto más reciente, ha sido el desarrollo de un LMS (Learning Management System) personalizado para un colegio en la ciudad de Sogamoso, Boyacá, optimizando la gestión académica y la experiencia de estudiantes y docentes.<br><br>◃💎▹ Me apasiona construir software útil, visualmente atractivo y disfruto emplear las buenas prácticas.<br><br>◃☁️▹ En mi tiempo libre, me encontrarás jugando videojuegos retro, participando en foros CTF, tocando batería o capturando paisajes con mi cámara.<br><br>◃🌲▹ Actualmente estoy buscando oportunidades de práctica laboral para seguir creciendo como desarrollador y aportar con nuevas ideas y compromiso.<br><br>📩 ¿DM? Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/devmecamilo/) o revisar mis proyectos aquí en GitHub.<br><br>▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-
 
 
 <!-- SKILLS -->
@@ -15,9 +15,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/-Docker-FF0080?style=for-the-badge&logo=docker"/></p>
 <!--END_SECTION:colourise-->
-
-
 <div align="center">
+
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -33,25 +32,26 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
 </div>
 
+<!-- CONTRIBUTIONS -->
 <h2> Contributed </h2>
-
-<div >
-            <p align="center">
-                <a href="https://github.com/lebathang/QuanLiThuVien"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=QuanLiThuVien" alt="Readme Card"></a>
-                <a href="https://github.com/lebathang/Webside-An-Vat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=Webside-An-Vat" alt="Readme Card"></a>
-                <a href="https://github.com/lebathang/lebathang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=lebathang" alt="Readme Card"></a>
-            </p>
-        </div>
+<div>
+   <p align="center">
+       <a href="https://github.com/lebathang/QuanLiThuVien"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=QuanLiThuVien" alt="Readme Card"></a>
+       <a href="https://github.com/lebathang/Webside-An-Vat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=Webside-An-Vat" alt="Readme Card"></a>
+       <a href="https://github.com/lebathang/lebathang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=lebathang" alt="Readme Card"></a>
+   </p>
+  </div>
 <hr>
 
+
+<!-- CONTACT-->
 <h2> Contact me </h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devmecamilo) 
 [![email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge)](mailto:sebastiancamicordoba@hotmail.com) 
- <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Devmecamilo#1163 </a>
+ <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Devmecamilo </a>
 
 
 
