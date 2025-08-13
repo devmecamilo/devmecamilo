@@ -8,7 +8,7 @@
 
 ## Contact me:
 
-<a href="https://discord.com/invite/w7B5nKB">![DiscordServer](https://img.shields.io/discord/587842272167723028?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
+<a href="https://www.linkedin.com/in/mgrootendorst/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
 
 
 
