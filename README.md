@@ -1,4 +1,4 @@
-<h1> Hola! Soy camilo. </h1>
+<h1> Hola! Soy Camilo. </h1>
 <br><br>◃👽▹ No soy solo un desarrollador, sino alguien que recibe ideas con curiosidad, las analiza con intuición y trabaja en equipo, logrando soluciones funcionales que sorprenden.<br><br>◃💻▹ Me formé en el SENA en Análisis y Desarrollo de Software, pero mi aprendizaje real viene de explorar, equivocarme, colaborar sin seguir siempre el mismo camino. Soy empírico con más de 1 año y medio de experiencia la cual adquiri mediante mi proyecto más reciente, ha sido el desarrollo de un LMS (Learning Management System) personalizado para un colegio en la ciudad de Sogamoso, Boyacá, optimizando la gestión académica y la experiencia de estudiantes y docentes.<br><br>◃💎▹ Me apasiona construir software útil, visualmente atractivo y disfruto emplear las buenas prácticas.<br><br>◃☁️▹ En mi tiempo libre, me encontrarás jugando videojuegos retro, participando en foros CTF, tocando batería o capturando paisajes con mi cámara.<br><br>◃🌲▹ Actualmente estoy buscando oportunidades de práctica laboral para seguir creciendo como desarrollador y aportar con nuevas ideas y compromiso.<br><br>📩 ¿DM? Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/devmecamilo/) o revisar mis proyectos aquí en GitHub.<br><br>▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 
@@ -48,7 +48,8 @@
 <hr>
 
 <h2> Contact me </h2>
-
+- Send message: 
+   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Devmecamilo#1163 </a>
+   
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devmecamilo) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CehExXZ5) 
 [![email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge)](mailto:sebastiancamicordoba@hotmail.com) 
