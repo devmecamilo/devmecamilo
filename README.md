@@ -3,11 +3,16 @@
 ─────➤ Hola .. si, soy Camilo o al menos así me llama la mayoría<br><br>◃👽▹ No soy solo un desarrollador, sino alguien que recibe ideas con curiosidad, las analiza con intuición y trabaja en equipo, logrando soluciones funcionales que sorprenden.<br><br>◃💻▹ Me formé en el SENA en Análisis y Desarrollo de Software, pero mi aprendizaje real viene de explorar, equivocarme, colaborar sin seguir siempre el mismo camino. Soy empírico con más de 1 año y medio de experiencia la cual adquiri mediante mi proyecto más reciente, ha sido el desarrollo de un LMS (Learning Management System) personalizado para un colegio en la ciudad de Sogamoso, Boyacá, optimizando la gestión académica y la experiencia de estudiantes y docentes.<br><br>◃💎▹ Me apasiona construir software útil, visualmente atractivo y disfruto emplear las buenas prácticas.<br><br>◃☁️▹ En mi tiempo libre, me encontrarás jugando videojuegos retro, participando en foros CTF, tocando batería o capturando paisajes con mi cámara.<br><br>◃🌲▹ Actualmente estoy buscando oportunidades de práctica laboral para seguir creciendo como desarrollador y aportar con nuevas ideas y compromiso.<br><br>📩 ¿DM? Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/devmecamilo/) o revisar mis proyectos aquí en GitHub.<br><br>▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 
-<!-- CONNECTION -->
+<!-- CONTACT ME -->
 <hr>      
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/devmecamilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
+<h3 align="center">Contact me:</h3>
+<a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
+
+<a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
+
+<a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
+
+<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
   
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CehExXZ5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebastiancamicordoba@hotmail.com) 
