@@ -5,8 +5,9 @@
 
 <!-- CONTACT ME -->
 <hr>      
-<h3 align="center">Contact me:</h3>
-<a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
+<h3>Contact me:</h3>
+
+<a href="https://github.com/devcamilo" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
 
 <a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
 
