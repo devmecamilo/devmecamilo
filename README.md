@@ -2,15 +2,15 @@
 ─────➤ Hola .. si, soy Camilo o al menos así me llama la mayoría<br><br>◃👽▹ No soy solo un desarrollador, sino alguien que recibe ideas con curiosidad, las analiza con intuición y trabaja en equipo, logrando soluciones funcionales que sorprenden.<br><br>◃💻▹ Me formé en el SENA en Análisis y Desarrollo de Software, pero mi aprendizaje real viene de explorar, equivocarme, colaborar sin seguir siempre el mismo camino. Soy empírico con más de 1 año y medio de experiencia la cual adquiri mediante mi proyecto más reciente, ha sido el desarrollo de un LMS (Learning Management System) personalizado para un colegio en la ciudad de Sogamoso, Boyacá, optimizando la gestión académica y la experiencia de estudiantes y docentes.<br><br>◃💎▹ Me apasiona construir software útil, visualmente atractivo y disfruto emplear las buenas prácticas.<br><br>◃☁️▹ En mi tiempo libre, me encontrarás jugando videojuegos retro, participando en foros CTF, tocando batería o capturando paisajes con mi cámara.<br><br>◃🌲▹ Actualmente estoy buscando oportunidades de práctica laboral para seguir creciendo como desarrollador y aportar con nuevas ideas y compromiso.<br><br>📩 ¿DM? Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/devmecamilo/) o revisar mis proyectos aquí en GitHub.<br><br>▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 
 
-## Redes Sociales:
+# Redes Sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CehExXZ5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devmecamilo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebastiancamicordoba@hotmail.com) 
 
 # 💻 Tecnologías:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
 </p>
 
