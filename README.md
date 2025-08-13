@@ -13,7 +13,7 @@
 
 <a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
 
-<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:sebastiancamicordoba@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sebastiancamicordoba@hotmail.com-teal?style=for-the-badge&logo=gmail"></a>
   
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CehExXZ5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sebastiancamicordoba@hotmail.com) 
