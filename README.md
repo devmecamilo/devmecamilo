@@ -58,6 +58,13 @@
             alt="LMS repository card"
         >
       </a>
+       <!-- Repositorio: devmecamilo/app_peliculas -->
+      <a href="https://github.com/devmecamilo/app_peliculas" target="_blank">
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=app_peliculas&show_icons=true&theme=midnight-purple&hide_border=true" 
+            alt="app_peliculas repository card"
+        >
+      </a>
        <a href="https://github.com/lebathang/Webside-An-Vat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=Webside-An-Vat" alt="Readme Card"></a>
        <a href="https://github.com/lebathang/lebathang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=lebathang" alt="Readme Card"></a>
    </p>
