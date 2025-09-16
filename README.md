@@ -48,24 +48,34 @@
 
 
 <!-- CONTRIBUTIONS -->
-<!-- enlaces href + imágenes (repo/username) -->
-<h2> Contributed </h2>
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-   <p align="center">
-      <!-- Repositorio: devmecamilo/LMS -->
-      <a href="https://github.com/devmecamilo/LMS" target="_blank">
-        <img 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=LMS&show_icons=true&theme=midnight-purple&hide_border=true" 
-            alt="LMS repository card"
-        >
-      </a>
-       <!-- Repositorio: devmecamilo/app_peliculas -->
-      <a href="https://github.com/devmecamilo/app_peliculas" target="_blank">
-        <img 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=app_peliculas&show_icons=true&theme=midnight-purple&hide_border=true" 
-            alt="app_peliculas repository card"
-        >
+<h2> 📂 Contributed </h2>
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- Repositorio: devmecamilo/LMS -->
+  <div align="center">
+    <a href="https://github.com/devmecamilo/LMS" target="_blank">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=LMS&show_icons=true&theme=midnight-purple&hide_border=true" 
+        alt="LMS repository card"
+      >
+    </a>
+    <p><b>📚 LMS:</b> Plataforma web para la gestión académica de estudiantes, docentes y cursos.</p>
   </div>
+
+  <!-- Repositorio: devmecamilo/app_peliculas -->
+  <div align="center">
+    <a href="https://github.com/devmecamilo/app_peliculas" target="_blank">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=app_peliculas&show_icons=true&theme=midnight-purple&hide_border=true" 
+        alt="app_peliculas repository card"
+      >
+    </a>
+    <p><b>🎬 App Películas:</b> Aplicación web para buscar y explorar información sobre películas.</p>
+  </div>
+
+</div>
+
 <hr>
 
 
