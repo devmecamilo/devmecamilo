@@ -58,6 +58,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=LMS&show_icons=true&theme=midnight-purple&hide_border=true" 
             alt="LMS repository card"
         >
+       <p><b>📚 LMS:</b> Plataforma web para la gestión académica de estudiantes, docentes y cursos.</p>
       </a>
        <!-- Repositorio: devmecamilo/app_peliculas -->
       <a href="https://github.com/devmecamilo/app_peliculas" target="_blank">
@@ -65,6 +66,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=app_peliculas&show_icons=true&theme=midnight-purple&hide_border=true" 
             alt="app_peliculas repository card"
         >
+       <p><b>🎬 App Películas:</b> Aplicación web para buscar y explorar información sobre películas.</p>
   </div>
 <hr>
 
