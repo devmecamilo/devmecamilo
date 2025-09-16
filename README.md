@@ -48,11 +48,9 @@
 
 ## 📂 Contributed
 
-[![LMS](https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=LMS&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/devmecamilo/LMS)
+https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=LMS&show_icons=true&theme=midnight-purple&hide_border=true
 
-[![App Películas](https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=app_peliculas&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/devmecamilo/app_peliculas)
-
-
+https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=app_peliculas&show_icons=true&theme=midnight-purple&hide_border=true
 
 
 
