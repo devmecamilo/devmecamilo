@@ -46,10 +46,27 @@
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 
-## Contributed
+<!-- CONTRIBUTIONS -->
+<!-- enlaces href + imágenes (repo/username) -->
+<h2> Contributed </h2>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+   <p align="center">
+      <!-- Repositorio: devmecamilo/LMS -->
+      <a href="https://github.com/devmecamilo/LMS" target="_blank">
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=LMS&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=60" 
+            alt="LMS repository card"
+        >
+      </a>
+       <!-- Repositorio: devmecamilo/app_peliculas -->
+      <a href="https://github.com/devmecamilo/app_peliculas" target="_blank">
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=app_peliculas&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=60" 
+            alt="app_peliculas repository card"
+        >
+  </div>
+<hr>
 
-| [![LMS](https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=LMS&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=60)](https://github.com/devmecamilo/LMS) | [![App Películas](https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=app_peliculas&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/devmecamilo/app_peliculas) |
-|---|---|
 
 
 
