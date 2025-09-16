@@ -73,10 +73,11 @@
 
 <!-- CONTACT-->
 <h2> Contact me </h2>
-
+Bad Request
+Error 400
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devmecamilo) 
 
-[![email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=camiperezsebas34@gmail.com&su=Contacting&body=Hi,%20i%20%want%20more%20information.)
+[![email](https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=camiperezsebas34@gmail.com&su=Contacting&body=Hi,%20i%20%want%20more%20information)
 
  <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.gg/xswSheRrd2)</a>
 
