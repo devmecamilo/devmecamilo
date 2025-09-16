@@ -46,10 +46,9 @@
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 
-## 📂 Contributed
-## 📂 Contributed
+## Contributed
 
-| [![LMS](https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=LMS&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/devmecamilo/LMS) | [![App Películas](https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=app_peliculas&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/devmecamilo/app_peliculas) |
+| [![LMS](https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=LMS&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=60)](https://github.com/devmecamilo/LMS) | [![App Películas](https://github-readme-stats.vercel.app/api/pin/?username=devmecamilo&repo=app_peliculas&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/devmecamilo/app_peliculas) |
 |---|---|
 
 
